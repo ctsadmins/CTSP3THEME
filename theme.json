@@ -101,12 +101,7 @@
     },
     "images": {
     	"background": "http://i.imgur.com/HHhecE5.jpg",
-        "icons": {
-	    "cohostttt": "http://i.imgur.com/DNkbpDC.png",
-            "hostttt": "http://i.imgur.com/DNkbpDC.png",
-            "residentdjjjj": "http://i.imgur.com/5dFaFQG.png"
         },
-    },
     "rules": {
         "allowAutorespond": "true",
         "allowAutowoot": "true",
