@@ -6,7 +6,7 @@
 			"ambassador": "#89BE6C",
             "bouncer": "#AC76FF",
             "cohost": "#AC76FF",
-            "residentdj": "#AC76FF0",
+            "residentdj": "#79BEB0",
             "host": "#AC76FF",
             "manager": "#AC76FF"
         }
@@ -32,10 +32,10 @@
 							 
 					"@keyframes fadein":{"from {opacity":"0;}","to {opacity":"1;}"},"@-moz-keyframes fadein":{"from {opacity":"0;}","to {opacity":"1;}"},"@-webkit-keyframes fadein":{"from {opacity":"0;}","to {opacity":"1;}"},"@-ms-keyframes fadein":{"from {opacity":"0;}","to {opacity":"1;}"},"@-o-keyframes fadein":{"from {opacity":"0;}","to {opacity":"1;}"},
 		
-		".emote.from-CHATBOT": {
+		".emote.from-527a69dec3b97a5068190b5d": {
 		                "background-color":"rgba(249, 0, 132, 0.20) !important","font-weight":"700","padding-left":"25px","border-left":"#7681FF 3px solid"
 		            },
-		            ".message.from-CHATBOT": {
+		            ".message.from-527a69dec3b97a5068190b5d": {
 		                "background-color":"rgba(249, 0, 132, 0.20) !important","font-weight":"700","padding-left":"25px","border-left":"#7681FF 3px solid"
 		            },
 				
@@ -100,8 +100,13 @@
         }
     },
     "images": {
-    	"background": "http://i.imgur.com/HHhecE5.jpg",
+        "background": "http://i.imgur.com/HHhecE5.jpg",
+        "booth": "http://i.imgur.com/DzDat72.png",
+        "icons": {
+	    "residentdj": "http://i.imgur.com/5dFaFQG.png"
         },
+        "playback": "http://i.imgur.com/8xFgQmU.png"
+    },
     "rules": {
         "allowAutorespond": "true",
         "allowAutowoot": "true",
