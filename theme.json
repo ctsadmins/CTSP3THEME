@@ -66,7 +66,7 @@
 		               },
 		  
 		  "#room-name": {
-		  "color":"EB0D53",
+		  "color":"#EB0D53",
 		  "font-weight":"900"
 		  },
 		  "#room-host": {
