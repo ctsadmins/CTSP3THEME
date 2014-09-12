@@ -4,11 +4,11 @@
     "colors": {
         "chat": {
 			"ambassador": "#89BE6C",
-            "bouncer": "#a50000",
-            "cohost": "#FF0000",
-            "residentdj": "#5c0000",
-            "host": "#FF0000",
-            "manager": "#db0000"
+            "bouncer": "#AC76FF",
+            "cohost": "#AC76FF",
+            "residentdj": "#AC76FF",
+            "host": "#AC76FF",
+            "manager": "#AC76FF"
         }
     },
 
